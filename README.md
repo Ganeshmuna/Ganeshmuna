@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science and Engineering (AI & ML) undergraduate at **Kalasalingam University**, graduating in 2027. I am passionate about software development, problem-solving, and building practical applications using programming and data-driven approaches.<br><br>I enjoy working on real-world projects, participating in hackathons, and continuously improving my technical skills. I am particularly interested in backend development, data handling, and applying AI/ML concepts to solve meaningful problems.<br><br>🏆 **3rd Prize – TechFrontier Hackathon 2025**  <br>Organized in collaboration with EC-Council & OWASP<br>
+I am a Computer Science and Engineering (AI & ML) undergraduate at **Kalasalingam University**, graduating in 2027. I am passionate about Data analyst, problem-solving, and building practical applications using programming and data-driven approaches.<br><br>I enjoy working on real-world projects, participating in hackathons, and continuously improving my technical skills. I am particularly interested in backend development, data handling, and applying AI/ML concepts to solve meaningful problems.<br><br>🏆 **3rd Prize – TechFrontier Hackathon 2025**  <br>Organized in collaboration with EC-Council & OWASP<br>
 
 
 ## 🌐 Socials:
